@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE productos SYSTEM "Ejercicio 3.dtd">
+
+<productos>
+
+    <producto>
+        <raton>
+            <codigo>F01</codigo>
+        </raton>
+    </producto>
+
+    <producto>
+        <teclado>
+            <codigo>F02</codigo>
+            <descripcion>Teclado con switches azules y en Español</descripcion>
+        </teclado>
+    </producto>
+
+    <producto>
+        <monitor>
+            <codigo>F03</codigo>
+            <nombre>AOC</nombre>
+            <descripcion>Monitor que tiene una tasa de refresco de 144 Hz y 24 mega pulgadas</descripcion>
+        </monitor>
+    </producto>
+
+</productos>
